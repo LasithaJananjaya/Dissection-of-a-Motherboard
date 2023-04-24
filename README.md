@@ -1,5 +1,5 @@
 # Dissection of a Motherboard #
-This is a group activity done under the module, EN2031 - Fundamentals of Computer Organization and Design in the Third Semester of the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
+This is a group activity done under the module, EN2031 - Fundamentals of Computer Organization and Design in the 3rd Semester of the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
 
 Our task was to select a motherboard from a reputable manufacturer that has been launched within the last five to seven years. It was necessary to conduct a physical inspection of the motherboard and include annotated photographs that clearly indicated the presence of different components. We were then required to meticulously study the specifications and prepare a comprehensive report that includes the following information.
 
